@@ -15,10 +15,11 @@ We believe that **reliable hosting is the foundation for great user experiences*
 ﻿
 ## ⚙️﻿ What We Offer
 ﻿
-- **Discord Bot Hosting** – Optimized for real-time responsiveness and seamless uptime.  
-- **Lavalink Hosting** – High-performance nodes for music bots with minimal latency.  
-- **Cloud Servers for Developers** – Flexible environments for web apps, APIs, and custom projects.  
-- **24/7 Support** – Dedicated, developer-friendly support channels.  
+- **Discord Bot Hosting** – Ultra-low latency hosting optimized for real-time responsiveness, seamless uptime, and dedicated resources, with free and premium options for every scale. 
+- **Lavalink Hosting** – High-performance production nodes with minimal latency, custom-engineered plugins, zero blocks, no rate limits, global regions availibility, and a beginner-friendly control panel with real-time transparent metrics—plug-and-play with full control.  
+- **Cloud Servers for Developers** – FFlexible, scalable environments for web apps, APIs, and custom projects, built for both rapid prototyping and production workloads.
+- **24/7 Support** – Dedicated, developer-focused support with fast response times, hands-on assistance, and real-time call support whenever you need it.
+- **AI SUPPORT** - Intelligent, Kerit Cloud–optimized AI assistance, custom-tuned for your infrastructure to provide instant guidance, troubleshooting, and operational support.  
 ﻿
 All our services are designed with **performance, transparency, and scalability** in mind.
 ﻿
